@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Title -->
+        <reportName>Cucumber BDD Automation Report</reportName>
+        <documentTitle>Extent Report - Cucumber BDD</documentTitle>
+
+        <!-- Theme: STANDARD or DARK -->
+        <theme>DARK</theme>
+
+        <!-- Encoding -->
+        <encoding>UTF-8</encoding>
+
+        <!-- Timestamp format -->
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+
+        <!-- Chart location -->
+        <chartLocation>top</chartLocation>
+
+        <!-- Custom CSS -->
+        <css>
+            .badge-primary { background-color: #4CAF50; }
+            .badge-danger { background-color: #F44336; }
+        </css>
+
+        <!-- Custom JS -->
+        <js>
+            console.log("Extent Report Loaded Successfully!");
+        </js>
+
+        <!-- System Info -->
+        <systemInfo>
+            <info name="OS" value="Windows 11"/>
+            <info name="User" value="Ranjan"/>
+            <info name="Build" value="BDD Automation Suite"/>
+        </systemInfo>
+    </configuration>
+</extentreports>
