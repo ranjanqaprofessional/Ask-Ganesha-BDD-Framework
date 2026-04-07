@@ -1,8 +1,7 @@
 package Pages;
 
 public class CartPage {
-	
-	//Locators
+	// This class represents the Cart Page of the application.
 	
 
 }
